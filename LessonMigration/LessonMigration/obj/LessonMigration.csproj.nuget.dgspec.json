@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dima-\\Desktop\\P126-AspNet-Identity-Register-Logout\\LessonMigration\\LessonMigration\\LessonMigration.csproj": {}
+    "C:\\Users\\dima-\\Desktop\\Verification_LoginEmail\\LessonMigration\\LessonMigration\\LessonMigration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dima-\\Desktop\\P126-AspNet-Identity-Register-Logout\\LessonMigration\\LessonMigration\\LessonMigration.csproj": {
+    "C:\\Users\\dima-\\Desktop\\Verification_LoginEmail\\LessonMigration\\LessonMigration\\LessonMigration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dima-\\Desktop\\P126-AspNet-Identity-Register-Logout\\LessonMigration\\LessonMigration\\LessonMigration.csproj",
+        "projectUniqueName": "C:\\Users\\dima-\\Desktop\\Verification_LoginEmail\\LessonMigration\\LessonMigration\\LessonMigration.csproj",
         "projectName": "LessonMigration",
-        "projectPath": "C:\\Users\\dima-\\Desktop\\P126-AspNet-Identity-Register-Logout\\LessonMigration\\LessonMigration\\LessonMigration.csproj",
+        "projectPath": "C:\\Users\\dima-\\Desktop\\Verification_LoginEmail\\LessonMigration\\LessonMigration\\LessonMigration.csproj",
         "packagesPath": "C:\\Users\\dima-\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dima-\\Desktop\\P126-AspNet-Identity-Register-Logout\\LessonMigration\\LessonMigration\\obj\\",
+        "outputPath": "C:\\Users\\dima-\\Desktop\\Verification_LoginEmail\\LessonMigration\\LessonMigration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
